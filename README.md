@@ -103,7 +103,9 @@ endmodule
 
 **TIMING DIAGRAM FOR UP COUNTER**
 
-![Screenshot 2024-12-23 185403](https://github.com/user-attachments/assets/44d48de0-e41c-44b4-9b33-bc86595453f0)
+
+![Screenshot 2024-12-26 215854](https://github.com/user-attachments/assets/a222361c-ff09-4cf8-8ad9-121fb627f901)
+
 
 
 **TRUTH TABLE**
